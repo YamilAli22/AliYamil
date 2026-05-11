@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YamilAli22
-- 👀 I’m interested in Computer Science, programming, IA, Data Science, etc. 
+- 👀 I’m interested in Computer Science, programming, IA, cybersecurity, etc 
 - 🌱 I’m currently studying CS in the university
 - 📫 How to reach me: jyamilali22@gmail.com -- 2336472979
 
